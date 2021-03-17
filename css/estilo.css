@@ -1,0 +1,77 @@
+.container{
+    background: #291464;
+    min-height: 800px;
+    color: white;
+}
+.num1{
+    background: #291464;
+    min-width: 100%;
+}
+body{
+    background-color: #291464;
+}
+.coluna{
+    margin-bottom: 35px;
+    text-align: center;
+}
+.img3{
+    width: 250px;
+    height: 310px;
+}
+.row{
+    padding-top: 35px;
+    margin-right: 0%;
+}
+.img2{
+    border: 5px solid #FFB500;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+}
+.img3{
+    border: 5px solid #FFB500;
+}
+.img1{
+    text-align: center;
+}
+.text{
+    margin-top: 0;
+    padding-left: 15px;
+}
+.titulo{
+    padding-top: 2%;
+    font-size: 4rem;
+}
+p{
+    font-size: large;
+}
+hr{
+    margin-top: 15px;
+    color: black;
+}
+footer{
+    padding: 50px;
+    background: rgb(41,20,100);
+    color: white;
+}
+
+.titulo-pe2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+    padding: 25px 30px 25px 15px;
+    text-align: left;
+}
+.contato {
+    float: left;
+}
+.icon {
+    padding: 20px;
+}
+.icone {
+    width: 40px;
+    height: 40px;
+}
+.contato .icon:hover > img{
+    transition: 0.5s all;
+    transform: scale(1.4)rotate(26deg);
+}
