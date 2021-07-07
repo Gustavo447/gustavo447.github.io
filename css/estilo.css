@@ -1,14 +1,14 @@
 .container{
-    background: #291464;
+    background: #0d3562;
     min-height: 800px;
     color: white;
 }
 .num1{
-    background: #291464;
+    background: #0d3562;
     min-width: 100%;
 }
 body{
-    background-color: #291464;
+    background-color: #0d3562;
 }
 .coluna{
     margin-bottom: 35px;
@@ -23,13 +23,13 @@ body{
     margin-right: 0%;
 }
 .img2{
-    border: 5px solid #FFB500;
+    border: 5px solid #14539a;
     border-radius: 50%;
     height: 200px;
     width: 200px;
 }
 .img3{
-    border: 5px solid #FFB500;
+    border: 5px solid #14539a;
 }
 .img1{
     text-align: center;
@@ -51,7 +51,7 @@ hr{
 }
 footer{
     padding: 50px;
-    background: rgb(41,20,100);
+    background: #0d3562;
     color: white;
 }
 
